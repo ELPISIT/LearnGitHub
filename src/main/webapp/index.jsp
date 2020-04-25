@@ -10,5 +10,6 @@
 	<h3>Line added index.jsp 003</h3>
 	<h3>Line added index.jsp 004</h3>
 	<h3>Line added index.jsp 005</h3>
+	<h3>Line added index.jsp 006</h3>
 </body>
 </html>
