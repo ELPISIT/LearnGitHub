@@ -13,5 +13,7 @@
 <body>
     <h2>Hello World!</h2>
     <h3>Line added page6.jsp 001</h3>
+    <h3>Line added page6.jsp 003</h3>
+    <h3>Line added page6.jsp 004</h3>
 </body>
 </html>
