@@ -7,7 +7,7 @@
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
 <html>
 <head>
-    <title>Mora Page 1 Title</title>
+    <title>Mora 1 Title</title>
 </head>
 <body>
     <h2>Hello World!</h2>
