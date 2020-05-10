@@ -1,5 +1,4 @@
 <%--
-  Created by IntelliJ IDEA.
   User: umesh
   Date: 05/10/2020
   Time: 1:10 PM
